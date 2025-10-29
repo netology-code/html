@@ -108,7 +108,7 @@ legend {
   margin-right: 10px;
 }
 
-[type="search"] {
+[type="submit"] {
   width: 35px;
   height: 35px;
   background-color: white;
