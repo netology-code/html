@@ -1,0 +1,19 @@
+/* начало фрагмента - эти стили трогать нельзя, так как они переиспользуюся в других блоках*/
+ .wrp .author h2 {
+  color: #015cab;
+  font-size: 13px;
+  line-height: 21px;
+  margin-bottom: 20px;
+  font-weight: 400;
+}
+
+p {
+  font-size: 18px;
+  line-height: 20px;
+} 
+
+.author img {
+  width: 69px;
+}
+
+/* конец фрагмента*/
